@@ -10,7 +10,7 @@ Pokemon GO!ssip
 
 ##### Quoi d'neuf Docteur ?
 ---
-Rhume ? Congonctivite ? Bras cassé ? Et si tout cela t'arrivait en même temps ? Grâce à notre super application tu vas maintenant pouvoir rechercher autant de docteurs que tu le souhaites, gérer tes rendez-vous, tes consultations, n'oublies pas ta carte vitale !
+Rhume ? Conjonctivite ? Bras cassé ? Et si tout cela t'arrivait en même temps ? Grâce à notre super application tu vas maintenant pouvoir rechercher autant de docteurs que tu le souhaites, gérer tes rendez-vous, tes consultations & n'oublies pas ta carte vitale !
 
 ##### Ludwig van Stroll
 ---
