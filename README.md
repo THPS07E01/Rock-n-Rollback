@@ -1,6 +1,6 @@
 ![Banner Peepoodo](https://peepoodo.github.io/peepoodo-box/logo.png)
 
-# Rock'n'Rollback
+# Rock'n'Rollback ![](https://media.giphy.com/media/T9nE1GxIMvjkk/giphy.gif)
 ---
 ## C'est l'histoire de trois databases..
 ---
@@ -40,6 +40,8 @@ In an hours time*
 
 ## Rollback Mountain
 Tu viens d'arriver au pied de la montagne et pourtant tu transpires déjà.. Mais finalement tu décides de la gravir. Tu vois le petit buisson tout feuillu vers la forêt ? Un chemin s'y trouve, le chemin nommé "*bundle install*", emprunte-le et une fois arrivé(e) au pied de la falaise "*db:migrate*", sors ton plus beau mousqueton et escalade ce pan de montagne qui paraît interminable.. Il ne reste plus que quelques mètres, à bout de force tu te dis que tu ne peux t'arrêter en si bon chemin.. Te voilà arrivé(e), tu admires le chemin accompli et décide de planter ta graine "*db:seed*", ici, en haut de cette magnifique montagne. Tu décides finalement d'appeler cette personne que tu dois absolument contacter.. Si, si tu vois de qui je parle..
+
+![](https://media.giphy.com/media/2wh8j5YLeeNvLNj5hE/giphy.gif)![](https://media.giphy.com/media/26DN3oQLHShKasTEQ/giphy.gif)
 
 ### AUTEURS     ![](https://media.giphy.com/media/Gb3FENu33eqKk/giphy.gif)        ![]()
  - Alexandre Gasior
