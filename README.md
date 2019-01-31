@@ -2,12 +2,11 @@
 
 # Rock'n'Rollback
 ---
----
 ## C'est l'histoire de trois databases..
 ---
-> Quoi d'neuf Docteur ?
-> Ludwig van Stroll  
-> Pokemon GO!ssip
+> Quoi d'neuf Docteur ?  
+Ludwig van Stroll  
+Pokemon GO!ssip
 
 ##### Quoi d'neuf Docteur ?
 ---
@@ -21,10 +20,10 @@ Tu aimerais pouvoir sortir ton chien mais tu es bien trop occupé(e) à coder ? 
 ---
 Sacha de la compta a dit qu'il avait vu Chen de la direction fricoter avec Pierre sa secrétaire, Ondine du marketing serait furieuse si elle l'apprenait, même si pourtant niveau fricotage elle en connaît un rayon ! Tu aimes les râgots ? Alors viens donc casser du sucre sur ton entourage dans l'anonymat le plus total en tout impunité, sur notre nouvelle app unique en son genre !
 
-> *All you pretty women
-Standin' in line
-I can make a love to you, [baby](https://www.youtube.com/watch?v=LbPRGDwlfqs)
-In an hours time*
+> *All you pretty women  
+Standin' in line  
+I can make a love to you, [baby](https://www.youtube.com/watch?v=LbPRGDwlfqs)  
+In an hours time*  
 > -- Black Strobe
 
 ## Let's clone again  ![]()
