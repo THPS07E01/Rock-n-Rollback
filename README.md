@@ -10,7 +10,7 @@ Pokemon GO!ssip
 
 ##### Quoi d'neuf Docteur ?
 ---
-Rhume ? Congonctivite ? Bras cassé ? Et si tout cela t'arrivait en même temps ? Grâce à notre super application tu vas maintenant pouvoir rechercher autant de docteurs que tu le souhaites, gérer tes rendez-vous, tes consultations, n'oublies pas ta carte vitale !
+Rhume ? Conjonctivite ? Bras cassé ? Et si tout cela t'arrivait en même temps ? Grâce à notre super application tu vas maintenant pouvoir rechercher autant de docteurs que tu le souhaites, gérer tes rendez-vous, tes consultations & n'oublies pas ta carte vitale !
 
 ##### Ludwig van Stroll
 ---
@@ -24,7 +24,7 @@ Sacha de la compta a dit qu'il avait vu Chen de la direction fricoter avec Pierr
 Standin' in line  
 I can make a love to you, [baby](https://www.youtube.com/watch?v=LbPRGDwlfqs)  
 In an hours time*  
-> -- Black Strobe
+> - Black Strobe
 
 ## Let's clone again  ![]()
 
@@ -39,7 +39,7 @@ In an hours time*
     -git clone git@github.com:THPS07E01/Rock-n-Rollback.git
 
 ## Rollback Mountain
-Tu viens d'arriver au pied de la montagne et pourtant tu transpires déjà.. Mais finalement tu décides de la gravir. Tu vois le petit buisson tout feuillu vers la forêt ? Un chemin s'y trouve, le chemin nommé "*bundle install*", emprunte-le et une fois arrivé(e) au pied de la falaise "*db:migrate*", sors ton plus beau mousqueton et escalade ce pan de montagne qui paraît interminable.. Il ne reste plus que quelques mètres, à bout de force tu te dis que tu ne peux t'arrêter en si bon chemin.. Te voilà arrivé(e), tu admires le chemin accompli et décide de planter ta graine "*db:seed*", ici, en haut de cette magnifique montagne. Tu décides finalement d'appeler cette personne que tu dois absolument contacter.. Si, si tu vois de qui je parle..
+Tu viens d'arriver au pied de la montagne et pourtant tu transpires déjà.. Mais finalement tu décides de la gravir. Tu vois le petit buisson tout feuillu vers la forêt ? Un chemin s'y trouve, le chemin nommé "***bundle install***", emprunte-le et une fois arrivé(e) au pied de la falaise "***db:migrate***", sors ton plus beau mousqueton et escalade ce pan de montagne qui paraît interminable.. Il ne reste plus que quelques mètres, à bout de force tu te dis que tu ne peux t'arrêter en si bon chemin.. Te voilà arrivé(e), tu admires le chemin accompli et décide de planter ta graine "***db:seed***", ici, en haut de cette magnifique montagne. Tu décides finalement d'appeler cette personne que tu dois absolument contacter.. Si, si tu vois de qui je parle..
 
 ![](https://media.giphy.com/media/2wh8j5YLeeNvLNj5hE/giphy.gif)![](https://media.giphy.com/media/26DN3oQLHShKasTEQ/giphy.gif)
 

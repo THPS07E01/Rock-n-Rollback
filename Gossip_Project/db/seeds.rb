@@ -250,5 +250,5 @@ puts ''
 puts "C'était une blague, y'a juste #{cit} Cities, #{usr} Users, #{ta} Tags, #{gos} Gossips, #{com} Comments, #{scom} Sub-comments, #{li} Likes et #{pm} Private Messages qui ont été ajoutés à la database."
 puts ""
 sleep(3)
-puts "Pokemon GO!ssip".blink
+puts "Pokemon GO!#{"ssip".blink}"
 puts ''
