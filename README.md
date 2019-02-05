@@ -36,13 +36,13 @@ Encore plus simple à installer que l'étagére "Billy" qui tu as acheté chez I
 
 #### Mise en place
 Ecoute moi bien Séraphin, il va falloir agir sérieusement si tu veux que nous deux ça match (d'un point de vue professionnel).
-Je sais que ça n'a pas toujours était facile pour toi alors voilà une liste de ce que tu va devoir faire une fois confortablement installer sur ton siège :
-    -- bundle install
-    -- db:create
-    -- db:migrate
-    -- db:seed
-    -- rspec
-    -- rails s (c'est comme *"rails server"*... de rien c'est moi qui régale)
+Je sais que ça n'a pas toujours était facile pour toi alors voilà une liste de ce que tu va devoir faire une fois confortablement installer sur ton siège :  
+    -- bundle install  
+    -- db:create  
+    -- db:migrate  
+    -- db:seed    
+    -- rspec  
+    -- rails s (c'est comme *"rails server"*... de rien c'est moi qui régale)  
 
 Et voilà c'est parti, c'est toi le king des internets, tu vas pouvoir balancer du sale tout en commandant ton McDo version XXL favoris.
 
