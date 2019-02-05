@@ -25,7 +25,7 @@ Sacha de la compta a dit qu'il avait vu Chen de la direction fricoter avec Pierr
 Standin' in line  
 I can make a love to you, [baby](https://www.youtube.com/watch?v=LbPRGDwlfqs)  
 In an hours time*  
-- Black Strobe
+-- Black Strobe
 
 ## Let's clone again  ![]()
 
