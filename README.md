@@ -5,7 +5,9 @@
 ---
 ## C'est l'histoire de trois databases..
 ---
-> Quoi d'neuf Docteur ?  Ludwig van Stroll  Pokemon GO!ssip
+> Quoi d'neuf Docteur ?  
+Ludwig van Stroll  
+Pokemon GO!ssip  
 
 ##### Quoi d'neuf Docteur ?
 ---
